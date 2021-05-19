@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Why feminisim isn't really empowering anymore",
+      "body": "Now people may argue that people are different and they express themselves very differently...",
+      "author": "B. Tully",
+      "id": 1
+    },
+    {
+      "title": "The rise of Cryptocurrencies",
+      "body": "It has been recorded in 2020 there has been approximately 5,392 cryptocurrencies...",
+      "author": "S. Ainsworth",
+      "id": 2
+    },
+    {
+      "title": "Singaporean student gets attacked in london",
+      "body": "The attack was recorded and intervened by Youtuber 'Sherwin', who had been live streaming",
+      "author": "M. Loxley",
+      "id": 3
+    },
+    {
+      "title": "Death of a Bachelor",
+      "body": "Seems so fitting for, happy ever after",
+      "author": "B. Tully",
+      "id": 4
+    },
+    {
+      "title": "A review on Jordan Peterson's - 'An Atheist in the Realm of Myth' ",
+      "body": "The collective idea that has been implied through history has never been more wrong. And to precisely state as to why it is so and has been implied can not be simply summed up in few words.",
+      "author": "M. Loxley",
+      "id": 5
+    },
+    {
+      "title": "How to write a good action movie",
+      "body": "There has been a few mishaps of movies in this genre like the Charlie's Angels reboot, and some may blame the audience instead of the writing. But well written movies isn't really the audience's responsibility. John Wick, Mad Max: Fury Road and the Original Charlies Angles are just a few examples of well written action movies.",
+      "author": "B. Tully",
+      "id": 6
+    }
+  ]
+}
